@@ -1,2 +1,7 @@
 # PerlScripts
-Pandora's box of Perl scripts - Use at your own risk - Intended for my us but happy to share
+Pandora's box of Perl scripts that were intended for my own use
+and specific purposes. They may be of use to someone or are
+complete crap.
+
+Use at your own risk.
+--EOF--
