@@ -4,4 +4,8 @@ and specific purposes. They may be of use to someone or are
 complete crap.
 
 Use at your own risk.
+
+And read the license you have obligations!!
+
 --EOF--
+
