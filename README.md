@@ -7,5 +7,8 @@ Use at your own risk.
 
 And read the license you have obligations!!
 
+Regards
+Daags
+
 --EOF--
 
